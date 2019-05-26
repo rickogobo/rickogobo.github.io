@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800");
 
@@ -4179,10 +4179,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #F64747;
-		color: #fdd1d1;
+		background-color: #064747;
+		color: #0dd1d1;
 		padding: 6em 0 4em 0;
-		background: #F64747;
+		background: #064747;
 	}
 
 		#footer input, #footer select, #footer textarea {
